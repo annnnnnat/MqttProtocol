@@ -1,0 +1,9 @@
+C:\Users\DELL\source\repos\MqttProtocol\MqttProtocol\bin\Debug\MqttProtocol.exe.config
+C:\Users\DELL\source\repos\MqttProtocol\MqttProtocol\bin\Debug\MqttProtocol.exe
+C:\Users\DELL\source\repos\MqttProtocol\MqttProtocol\bin\Debug\MqttProtocol.pdb
+C:\Users\DELL\source\repos\MqttProtocol\MqttProtocol\bin\Debug\M2Mqtt.Net.dll
+C:\Users\DELL\source\repos\MqttProtocol\MqttProtocol\bin\Debug\M2Mqtt.Net.pdb
+C:\Users\DELL\source\repos\MqttProtocol\MqttProtocol\obj\Debug\MqttProtocol.csprojAssemblyReference.cache
+C:\Users\DELL\source\repos\MqttProtocol\MqttProtocol\obj\Debug\MqttProtocol.csproj.CopyComplete
+C:\Users\DELL\source\repos\MqttProtocol\MqttProtocol\obj\Debug\MqttProtocol.exe
+C:\Users\DELL\source\repos\MqttProtocol\MqttProtocol\obj\Debug\MqttProtocol.pdb
